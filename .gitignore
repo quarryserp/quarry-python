@@ -1,0 +1,7 @@
+.venv/
+dist/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+# Library development resolves compatible dependencies; see CONTRIBUTING.md.
+uv.lock
